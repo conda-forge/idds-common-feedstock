@@ -21,6 +21,10 @@ requirements:
     - pip
   run:
     - python >=3.6
+    - cryptography
+    - pyjwt
+    - packaging
+    - requests
 
 test:
   imports:
