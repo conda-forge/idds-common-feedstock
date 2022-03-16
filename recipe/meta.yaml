@@ -1,7 +1,6 @@
 {% set name = "idds-common" %}
 {% set version = "0.10.4" %}
 
-
 package:
   name: {{ name|lower }}
   version: {{ version }}
