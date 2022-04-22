@@ -1,5 +1,5 @@
 {% set name = "idds-common" %}
-{% set version = "0.10.8" %}
+{% set version = "0.10.9" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 3cb2b438d4f877250dda59572c1f5d3fbd1c40f302ed8b627bb4252ceab56b24
+  sha256: 5e3ef88059ad07f54163934fcac46e2fddc4c30c786eb669bb2849c9ce463d90
 
 build:
   number: 0
