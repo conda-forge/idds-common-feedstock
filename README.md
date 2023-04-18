@@ -1,11 +1,11 @@
-About idds-common
-=================
+About idds-common-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/idds-common-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/idds-common/
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/idds-common-feedstock/blob/main/LICENSE.txt)
 
 Summary: intelligent Data Delivery Service(iDDS) Package
 
