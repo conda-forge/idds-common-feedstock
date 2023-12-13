@@ -25,6 +25,7 @@ requirements:
     - packaging
     - requests
     - dogpile.cache
+    - deepdiff
 
 test:
   imports:
